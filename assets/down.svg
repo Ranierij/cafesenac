@@ -1,0 +1,15 @@
+<svg width="25" height="25" viewBox="0 0 24 24" fill="#a45a49" xmlns="http://www.w3.org/2000/svg">
+<rect width="39" height="49" fill="#a45a49"/>
+<g id="Home" clip-path="url(down.svg)">
+<g id="botao-container" clip-path="url(#clip1_1_5)">
+<rect width="1440" height="386" transform="translate(-176 -371)" fill="#a45a49"/>
+</g>
+<g id="Button">
+<rect x="-36" y="-36" width="36" height="36" rx="8" fill="#A45A49"/>
+<g id="botao-container">
+<path id="Vector" d="M7 13L12 18L17 13" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M7 6L12 11L17 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</svg>
